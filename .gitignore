@@ -1,0 +1,13 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Recovery output (generated at runtime)
+Recovered_USB_Files/
